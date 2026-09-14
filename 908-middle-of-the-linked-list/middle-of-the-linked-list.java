@@ -14,7 +14,6 @@ class Solution {
         ListNode t1 = head;
         ListNode t2 = head;
         while(t2!=null){
-            System.out.println(t1.val+" "+t2.val);
             if(t2.next == null){
                 return t1;
             }
