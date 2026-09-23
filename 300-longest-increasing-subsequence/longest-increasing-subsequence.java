@@ -2,17 +2,15 @@ class Solution {
     public int lengthOfLIS(int[] nums) {
         int arr[] = new int[nums.length];
         Arrays.fill(arr,1);
+        int m = 1;
         for(int i = nums.length-2;i>=0;i--){
             for(int j = i+1;j<nums.length;j++){
                 if(nums[i]<nums[j]){
                     arr[i] = Math.max(arr[i],1 + arr[j]);
                 }
+                m = Math.max(m,arr[i]);
             }
         }
-        int m = arr[0];
-        for(int i = 0;i<arr.length;i++)
-            m = Math.max(m,arr[i]);
-        return m
-        ;
+        return m;
     }
 }
