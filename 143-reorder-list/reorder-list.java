@@ -26,8 +26,7 @@ class Solution {
         ListNode temp1 = null;
         ListNode temp2 = null;
         int a = 0;
-        while(a<l-1){ 
-            System.out.print(t1.val+" "+t2.val);     
+        while(a<l-1){     
             temp1 = t1.next;
             t1.next = t2;
             temp2 = t2.next;
@@ -38,7 +37,6 @@ class Solution {
             t2.next = temp1;
             t1 = temp1;
             t2 = temp2;
-            System.out.println(" "+t1.val+" "+t2.val);
             a += 2;
         }        
         t1.next = null;
