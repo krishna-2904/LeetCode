@@ -1,3 +1,5 @@
+// Created a arraylist of exact size of nums representing same index as of nums.
+// each element of nums will have a map containing of differences as keys and maximum length with that difference till that element as value.
 class Solution {
     public int longestArithSeqLength(int[] nums) {
         ArrayList<HashMap<Integer,Integer>> arr = new ArrayList<>();
