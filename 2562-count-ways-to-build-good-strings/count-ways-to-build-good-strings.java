@@ -1,3 +1,5 @@
+// In this question there was no actual need to create string or even use strings you just have to keep the count.
+// So remember focus on what is asked don't complicate the question
 class Solution {
     public int countGoodStrings(int low, int high, int zero, int one) {
         int dp[] = new int[high+1];
