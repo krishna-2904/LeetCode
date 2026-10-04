@@ -1,3 +1,8 @@
+// There are two arrays 
+// First array[i] = longest valid course including i'th position
+// Second array is a binary search array created  of size + 1
+// bs[i] = i is length and bs[i] = shortest last number of valid subsequences of that size.
+
 class Solution {
     public int[] longestObstacleCourseAtEachPosition(int[] obstacles) {
         int arr[] = new int[obstacles.length];
