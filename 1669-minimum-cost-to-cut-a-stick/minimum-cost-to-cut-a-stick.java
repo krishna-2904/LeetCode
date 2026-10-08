@@ -1,3 +1,8 @@
+// First approach which is in comments 
+// I created a array of n size which is lengths and then calculated for each cut possible in that length which give MLE on n = 8100 because 8100 * 8100 is exceeding the memory limit.
+
+// So I changed my approach to cuts as it will be atmost 100 so no MLE will occur and created a 2d dp of cuts length and at i,j it will store minimum cost to do all cuts between ith index to jth index in cuts.
+//inside the function what my approach was that it will try all cuts one by one within that range as a first cut and then move with left part and right part and will return minimum cost required for specific range.
 class Solution {
     public int minCost(int n, int[] cuts) {
         Arrays.sort(cuts);
