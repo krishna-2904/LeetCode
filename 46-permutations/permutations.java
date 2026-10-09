@@ -1,3 +1,8 @@
+// Accepted in first attempt without any logical error
+// Created three lists
+// First which is 2d list which stores whatever the answer is calculated and this list will be returned by the function.
+// Second list is for the current elements we have taken or the path of elements we are on which will later on be stored in list.
+// Third list contains elements which are still remaining to be traversed and also created a temp array for easy logic.
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> list = new ArrayList<>();
