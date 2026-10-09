@@ -1,3 +1,7 @@
+// In this question my approach was that start from last and find the number after which it will be upgraded like everytime element upgraded to its next maximum or if it is maximum then to the smallest accordingly.
+
+// After finding the number replace the number with the next maximum and reset the right part of array which means sort it in ascending order.
+// If array is fully at max then next lexicographically array we will return will be the smallest one as this is the cycle. So simply sort the array.
 class Solution {
     public void nextPermutation(int[] nums) {
         ArrayList<Integer> arr = new ArrayList<>();
@@ -22,7 +26,6 @@ class Solution {
                 nums[i] = m;
                 nums[ind] = temp;
                 for(int k = 0;k<nums.length;k++){
-                    System.out.print(nums[k]+" ");
                 }
                 for(int j = i + 1;j<nums.length;j++){
                     for(int k = i + 1;k<nums.length;k++){
