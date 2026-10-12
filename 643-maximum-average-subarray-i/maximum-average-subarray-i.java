@@ -1,3 +1,6 @@
+// First find the sum of first subarray.
+// Then in loop add next and remove first element of new subarray and compare with max.
+// return max average.
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
         int max = Integer.MIN_VALUE;
