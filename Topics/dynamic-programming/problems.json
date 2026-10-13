@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:28:48.159Z",
+  "updatedAt": "2026-10-13T15:30:44.375Z",
   "problems": [
     {
       "frontendId": "131",
@@ -84,6 +84,26 @@
           "path": "Medium/0877-stone-game/0877-stone-game.java",
           "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
           "lastSyncedAt": "2026-10-13T15:28:09.959Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "983",
+      "title": "Minimum Cost For Tickets",
+      "slug": "minimum-cost-for-tickets",
+      "problemName": "0983-minimum-cost-for-tickets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-for-tickets/",
+      "folderPath": "Medium/0983-minimum-cost-for-tickets/",
+      "readmePath": "Medium/0983-minimum-cost-for-tickets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0983-minimum-cost-for-tickets.java",
+          "path": "Medium/0983-minimum-cost-for-tickets/0983-minimum-cost-for-tickets.java",
+          "sha": "9630db9707abf3c937e9910e387b5f27bb32f42b",
+          "lastSyncedAt": "2026-10-13T15:30:44.375Z"
         }
       ]
     },
