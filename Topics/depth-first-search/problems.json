@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T16:13:14.089Z",
+  "updatedAt": "2026-10-13T16:13:24.498Z",
   "problems": [
     {
       "frontendId": "98",
@@ -63,7 +63,7 @@
           "filename": "0226-invert-binary-tree.java",
           "path": "Easy/0226-invert-binary-tree/0226-invert-binary-tree.java",
           "sha": "f8d3f366c1b0f9d412b4af5ebf8a99f48064e26c",
-          "lastSyncedAt": "2026-10-13T15:48:39.270Z"
+          "lastSyncedAt": "2026-10-13T16:13:24.498Z"
         }
       ]
     },
