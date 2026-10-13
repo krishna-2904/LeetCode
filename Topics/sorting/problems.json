@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T15:30:06.668Z",
+  "updatedAt": "2026-10-13T15:33:13.265Z",
   "problems": [
     {
       "frontendId": "16",
@@ -44,6 +44,26 @@
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "029ff936a2776d0b8bc391e0e32931d12ca4f385",
           "lastSyncedAt": "2026-10-13T15:26:53.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "646",
+      "title": "Maximum Length of Pair Chain",
+      "slug": "maximum-length-of-pair-chain",
+      "problemName": "0646-maximum-length-of-pair-chain",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+      "folderPath": "Medium/0646-maximum-length-of-pair-chain/",
+      "readmePath": "Medium/0646-maximum-length-of-pair-chain/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0646-maximum-length-of-pair-chain.java",
+          "path": "Medium/0646-maximum-length-of-pair-chain/0646-maximum-length-of-pair-chain.java",
+          "sha": "2aa9d71f9321ee1b8481971a974d0006977786c9",
+          "lastSyncedAt": "2026-10-13T15:33:13.265Z"
         }
       ]
     },
