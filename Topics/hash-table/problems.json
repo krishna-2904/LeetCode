@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T15:47:01.734Z",
+  "updatedAt": "2026-10-13T15:49:04.626Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.java",
           "sha": "52bce04007b087e3c3804dfe4aa6db325858c499",
           "lastSyncedAt": "2026-10-13T15:40:19.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4066",
+      "title": "Maximum Equal Adjacent Pairs After at Most One Replacement",
+      "slug": "maximum-equal-adjacent-pairs-after-at-most-one-replacement",
+      "problemName": "4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/",
+      "folderPath": "Medium/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/",
+      "readmePath": "Medium/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement.java",
+          "path": "Medium/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement.java",
+          "sha": "0c9761a33d8f7372b1237ebbcd6e18cf798ae9e4",
+          "lastSyncedAt": "2026-10-13T15:49:04.626Z"
         }
       ]
     }
