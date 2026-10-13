@@ -5,7 +5,7 @@
     "name": "Longest Increasing Subsequence",
     "tagId": "122079"
   },
-  "updatedAt": "2026-10-13T15:34:38.531Z",
+  "updatedAt": "2026-10-13T15:40:36.829Z",
   "problems": [
     {
       "frontendId": "334",
@@ -23,7 +23,7 @@
           "filename": "0334-increasing-triplet-subsequence.java",
           "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.java",
           "sha": "f51edc837e6c41cbdda51ad4698797c5179f1eab",
-          "lastSyncedAt": "2026-10-13T15:26:05.468Z"
+          "lastSyncedAt": "2026-10-13T15:40:36.829Z"
         }
       ]
     },
