@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:43:51.884Z",
+  "updatedAt": "2026-10-13T15:44:07.031Z",
   "problems": [
     {
       "frontendId": "16",
@@ -583,7 +583,7 @@
           "filename": "1964-find-the-longest-valid-obstacle-course-at-each-position.java",
           "path": "Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/1964-find-the-longest-valid-obstacle-course-at-each-position.java",
           "sha": "d4c2bce284dc8bcc081979dd098f843d6d89ce32",
-          "lastSyncedAt": "2026-10-13T15:31:09.477Z"
+          "lastSyncedAt": "2026-10-13T15:44:07.031Z"
         }
       ]
     },
