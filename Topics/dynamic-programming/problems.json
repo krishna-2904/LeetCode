@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T16:07:44.490Z",
+  "updatedAt": "2026-10-13T16:07:59.835Z",
   "problems": [
     {
       "frontendId": "22",
@@ -263,7 +263,7 @@
           "filename": "0877-stone-game.java",
           "path": "Medium/0877-stone-game/0877-stone-game.java",
           "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
-          "lastSyncedAt": "2026-10-13T15:42:29.622Z"
+          "lastSyncedAt": "2026-10-13T16:07:59.835Z"
         }
       ]
     },
