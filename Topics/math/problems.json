@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T15:22:40.264Z",
+  "updatedAt": "2026-10-13T15:26:42.974Z",
   "problems": [
     {
       "frontendId": "60",
@@ -23,7 +23,7 @@
           "filename": "0060-permutation-sequence.java",
           "path": "0060-permutation-sequence/0060-permutation-sequence.java",
           "sha": "0d8ffee9368b162575b8d3c3417ecd5332a3105e",
-          "lastSyncedAt": "2026-10-13T15:22:40.264Z"
+          "lastSyncedAt": "2026-10-13T15:26:42.974Z"
         }
       ]
     }
