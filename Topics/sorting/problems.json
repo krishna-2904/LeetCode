@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T15:12:08.120Z",
+  "updatedAt": "2026-10-13T15:14:01.907Z",
   "problems": [
+    {
+      "frontendId": "47",
+      "title": "Permutations II",
+      "slug": "permutations-ii",
+      "problemName": "0047-permutations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
+      "folderPath": "0047-permutations-ii/",
+      "readmePath": "0047-permutations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0047-permutations-ii.java",
+          "path": "0047-permutations-ii/0047-permutations-ii.java",
+          "sha": "029ff936a2776d0b8bc391e0e32931d12ca4f385",
+          "lastSyncedAt": "2026-10-13T15:14:01.907Z"
+        }
+      ]
+    },
     {
       "frontendId": "1679",
       "title": "Max Number of K-Sum Pairs",
