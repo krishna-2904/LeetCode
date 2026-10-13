@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:27:33.495Z",
+  "updatedAt": "2026-10-13T15:27:44.735Z",
   "problems": [
     {
       "frontendId": "132",
@@ -24,6 +24,26 @@
           "path": "Hard/0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.java",
           "sha": "218c4b0f8584e1dcdd86589c13aafe3e3b320865",
           "lastSyncedAt": "2026-10-13T15:27:23.693Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "Medium/0486-predict-the-winner/",
+      "readmePath": "Medium/0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0486-predict-the-winner.java",
+          "path": "Medium/0486-predict-the-winner/0486-predict-the-winner.java",
+          "sha": "3411f71138fb6d0cdd572366204ca73b3bee71ea",
+          "lastSyncedAt": "2026-10-13T15:27:44.735Z"
         }
       ]
     },
