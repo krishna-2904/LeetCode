@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T15:39:46.970Z",
+  "updatedAt": "2026-10-13T15:40:19.276Z",
   "problems": [
     {
       "frontendId": "3",
@@ -163,7 +163,7 @@
           "filename": "1679-max-number-of-k-sum-pairs.java",
           "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.java",
           "sha": "52bce04007b087e3c3804dfe4aa6db325858c499",
-          "lastSyncedAt": "2026-10-13T15:25:43.559Z"
+          "lastSyncedAt": "2026-10-13T15:40:19.276Z"
         }
       ]
     }
