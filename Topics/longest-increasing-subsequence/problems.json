@@ -5,7 +5,7 @@
     "name": "Longest Increasing Subsequence",
     "tagId": "122079"
   },
-  "updatedAt": "2026-10-13T15:34:21.239Z",
+  "updatedAt": "2026-10-13T15:34:38.531Z",
   "problems": [
     {
       "frontendId": "334",
@@ -24,6 +24,26 @@
           "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.java",
           "sha": "f51edc837e6c41cbdda51ad4698797c5179f1eab",
           "lastSyncedAt": "2026-10-13T15:26:05.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "354",
+      "title": "Russian Doll Envelopes",
+      "slug": "russian-doll-envelopes",
+      "problemName": "0354-russian-doll-envelopes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes/",
+      "folderPath": "Hard/0354-russian-doll-envelopes/",
+      "readmePath": "Hard/0354-russian-doll-envelopes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0354-russian-doll-envelopes.java",
+          "path": "Hard/0354-russian-doll-envelopes/0354-russian-doll-envelopes.java",
+          "sha": "2d9ddcb0fef61dd44fc4e96c4d3112c135380979",
+          "lastSyncedAt": "2026-10-13T15:34:38.531Z"
         }
       ]
     },
