@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:35:57.737Z",
+  "updatedAt": "2026-10-13T15:36:11.625Z",
   "problems": [
     {
       "frontendId": "16",
@@ -344,6 +344,26 @@
           "path": "Medium/0877-stone-game/0877-stone-game.java",
           "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
           "lastSyncedAt": "2026-10-13T15:28:09.959Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "941",
+      "title": "Valid Mountain Array",
+      "slug": "valid-mountain-array",
+      "problemName": "0941-valid-mountain-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-mountain-array/",
+      "folderPath": "Easy/0941-valid-mountain-array/",
+      "readmePath": "Easy/0941-valid-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0941-valid-mountain-array.java",
+          "path": "Easy/0941-valid-mountain-array/0941-valid-mountain-array.java",
+          "sha": "c659ff11e8113f2c13af918b732a783391204a33",
+          "lastSyncedAt": "2026-10-13T15:36:11.625Z"
         }
       ]
     },
