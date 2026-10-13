@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:34:38.531Z",
+  "updatedAt": "2026-10-13T15:34:56.001Z",
   "problems": [
     {
       "frontendId": "16",
@@ -364,6 +364,26 @@
           "path": "Medium/1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.java",
           "sha": "b4430a84fd0cf6c460248b7ed6dd4311338f86b2",
           "lastSyncedAt": "2026-10-13T15:28:35.069Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1048",
+      "title": "Longest String Chain",
+      "slug": "longest-string-chain",
+      "problemName": "1048-longest-string-chain",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain/",
+      "folderPath": "Medium/1048-longest-string-chain/",
+      "readmePath": "Medium/1048-longest-string-chain/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1048-longest-string-chain.java",
+          "path": "Medium/1048-longest-string-chain/1048-longest-string-chain.java",
+          "sha": "bfdc96ac1efd7745bcf2e55b378845f9d4bbe1eb",
+          "lastSyncedAt": "2026-10-13T15:34:56.001Z"
         }
       ]
     },
