@@ -5,7 +5,7 @@
     "name": "Longest Common Subsequence",
     "tagId": "122080"
   },
-  "updatedAt": "2026-10-13T16:09:19.692Z",
+  "updatedAt": "2026-10-13T17:48:15.154Z",
   "problems": [
     {
       "frontendId": "712",
@@ -24,6 +24,26 @@
           "path": "Medium/0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.java",
           "sha": "1c3eae87b329d8c80807cef66244ced3a53b4672",
           "lastSyncedAt": "2026-10-13T16:09:19.692Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "Medium/1143-longest-common-subsequence/",
+      "readmePath": "Medium/1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1143-longest-common-subsequence.java",
+          "path": "Medium/1143-longest-common-subsequence/1143-longest-common-subsequence.java",
+          "sha": "b98b6b3c53b2074ad4233a88959f738dac6dc2a7",
+          "lastSyncedAt": "2026-10-13T17:48:15.154Z"
         }
       ]
     }
