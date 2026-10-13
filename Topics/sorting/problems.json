@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T15:46:39.222Z",
+  "updatedAt": "2026-10-13T15:49:21.947Z",
   "problems": [
     {
       "frontendId": "16",
@@ -164,6 +164,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "3a2de617f1f3bb4fa35d62246607af74edbfd462",
           "lastSyncedAt": "2026-10-13T15:40:01.832Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4065",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "slug": "rearrange-array-by-removing-distinct-values",
+      "problemName": "4065-rearrange-array-by-removing-distinct-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+      "folderPath": "Easy/4065-rearrange-array-by-removing-distinct-values/",
+      "readmePath": "Easy/4065-rearrange-array-by-removing-distinct-values/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4065-rearrange-array-by-removing-distinct-values.java",
+          "path": "Easy/4065-rearrange-array-by-removing-distinct-values/4065-rearrange-array-by-removing-distinct-values.java",
+          "sha": "67462728e71f7c24f457645f61ab3018b5786239",
+          "lastSyncedAt": "2026-10-13T15:49:21.947Z"
         }
       ]
     }
