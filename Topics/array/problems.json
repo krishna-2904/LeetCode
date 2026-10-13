@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:46:52.537Z",
+  "updatedAt": "2026-10-13T15:47:01.734Z",
   "problems": [
     {
       "frontendId": "16",
@@ -443,7 +443,7 @@
           "filename": "1027-longest-arithmetic-subsequence.java",
           "path": "Medium/1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java",
           "sha": "0e4ddc140ae97a881200760c51c61329fc3dab23",
-          "lastSyncedAt": "2026-10-13T15:35:29.991Z"
+          "lastSyncedAt": "2026-10-13T15:47:01.734Z"
         }
       ]
     },
