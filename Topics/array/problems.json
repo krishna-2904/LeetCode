@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:14:21.343Z",
+  "updatedAt": "2026-10-13T16:14:26.927Z",
   "problems": [
     {
       "frontendId": "16",
@@ -623,7 +623,7 @@
           "filename": "1807-evaluate-the-bracket-pairs-of-a-string.java",
           "path": "Medium/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java",
           "sha": "ead69ef35fe2fd0635ef39e06fd13c212e08d8a4",
-          "lastSyncedAt": "2026-10-13T15:50:32.307Z"
+          "lastSyncedAt": "2026-10-13T16:14:26.927Z"
         }
       ]
     },
