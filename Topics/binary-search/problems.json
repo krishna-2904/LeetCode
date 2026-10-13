@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T15:47:12.634Z",
+  "updatedAt": "2026-10-13T15:51:54.875Z",
   "problems": [
     {
       "frontendId": "34",
@@ -64,6 +64,26 @@
           "path": "Hard/0354-russian-doll-envelopes/0354-russian-doll-envelopes.java",
           "sha": "2d9ddcb0fef61dd44fc4e96c4d3112c135380979",
           "lastSyncedAt": "2026-10-13T15:46:26.415Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "Medium/0633-sum-of-square-numbers/",
+      "readmePath": "Medium/0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0633-sum-of-square-numbers.java",
+          "path": "Medium/0633-sum-of-square-numbers/0633-sum-of-square-numbers.java",
+          "sha": "684133c2171fbb93298494b0a14da9efca43a1ed",
+          "lastSyncedAt": "2026-10-13T15:51:54.875Z"
         }
       ]
     },
