@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:30:44.375Z",
+  "updatedAt": "2026-10-13T15:30:54.109Z",
   "problems": [
     {
       "frontendId": "131",
@@ -64,6 +64,26 @@
           "path": "Medium/0486-predict-the-winner/0486-predict-the-winner.java",
           "sha": "3411f71138fb6d0cdd572366204ca73b3bee71ea",
           "lastSyncedAt": "2026-10-13T15:27:44.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "712",
+      "title": "Minimum ASCII Delete Sum for Two Strings",
+      "slug": "minimum-ascii-delete-sum-for-two-strings",
+      "problemName": "0712-minimum-ascii-delete-sum-for-two-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
+      "folderPath": "Medium/0712-minimum-ascii-delete-sum-for-two-strings/",
+      "readmePath": "Medium/0712-minimum-ascii-delete-sum-for-two-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0712-minimum-ascii-delete-sum-for-two-strings.java",
+          "path": "Medium/0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.java",
+          "sha": "1c3eae87b329d8c80807cef66244ced3a53b4672",
+          "lastSyncedAt": "2026-10-13T15:30:54.109Z"
         }
       ]
     },
