@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:51:42.270Z",
+  "updatedAt": "2026-10-13T15:52:07.234Z",
   "problems": [
     {
       "frontendId": "16",
@@ -684,6 +684,26 @@
           "path": "Easy/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
           "sha": "d3c78caa7b8ed51c394291d127d681a73862016b",
           "lastSyncedAt": "2026-10-13T15:51:42.270Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "Easy/3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "Easy/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
+          "path": "Easy/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
+          "sha": "e002d4e12b018627050a640688eec7a0f45c4d4e",
+          "lastSyncedAt": "2026-10-13T15:52:07.234Z"
         }
       ]
     },
