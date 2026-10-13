@@ -1,3 +1,9 @@
+// In this solution to check for validity 
+// Firstly I divided into the left part of exponent and right part of exponent if no e then full will be left.
+// In seperate f function checks for right part according to conditions.
+// In seperate f2 function checks for left part according to conditions.
+// And in f2 I divided into left part of decimal and right part of decimal and using proper conditions check for both part.
+// In f3 function that only check for numbers in specific range
 class Solution {
     public boolean isNumber(String s) {
         int a = 0;
