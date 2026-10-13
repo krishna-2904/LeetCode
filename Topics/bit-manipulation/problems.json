@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T15:26:13.622Z",
+  "updatedAt": "2026-10-13T15:36:18.331Z",
   "problems": [
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "Medium/0078-subsets/",
+      "readmePath": "Medium/0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0078-subsets.java",
+          "path": "Medium/0078-subsets/0078-subsets.java",
+          "sha": "5d11713105d6e92d3ab56f8faa0db7735d0a316c",
+          "lastSyncedAt": "2026-10-13T15:36:18.331Z"
+        }
+      ]
+    },
     {
       "frontendId": "90",
       "title": "Subsets II",
