@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:35:17.656Z",
+  "updatedAt": "2026-10-13T15:35:29.991Z",
   "problems": [
     {
       "frontendId": "16",
@@ -344,6 +344,26 @@
           "path": "Medium/0983-minimum-cost-for-tickets/0983-minimum-cost-for-tickets.java",
           "sha": "9630db9707abf3c937e9910e387b5f27bb32f42b",
           "lastSyncedAt": "2026-10-13T15:30:44.375Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1027",
+      "title": "Longest Arithmetic Subsequence",
+      "slug": "longest-arithmetic-subsequence",
+      "problemName": "1027-longest-arithmetic-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence/",
+      "folderPath": "Medium/1027-longest-arithmetic-subsequence/",
+      "readmePath": "Medium/1027-longest-arithmetic-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1027-longest-arithmetic-subsequence.java",
+          "path": "Medium/1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java",
+          "sha": "0e4ddc140ae97a881200760c51c61329fc3dab23",
+          "lastSyncedAt": "2026-10-13T15:35:29.991Z"
         }
       ]
     },
