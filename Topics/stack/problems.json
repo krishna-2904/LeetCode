@@ -5,8 +5,28 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T15:27:05.593Z",
+  "updatedAt": "2026-10-13T15:36:33.228Z",
   "problems": [
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "Medium/0143-reorder-list/",
+      "readmePath": "Medium/0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "Medium/0143-reorder-list/0143-reorder-list.java",
+          "sha": "8d9b665b3cfdfd6f2229845af672b33590aa0618",
+          "lastSyncedAt": "2026-10-13T15:36:33.228Z"
+        }
+      ]
+    },
     {
       "frontendId": "1541",
       "title": "Minimum Insertions to Balance a Parentheses String",
