@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T16:11:01.692Z",
+  "updatedAt": "2026-10-13T16:11:11.434Z",
   "problems": [
     {
       "frontendId": "98",
@@ -43,7 +43,7 @@
           "filename": "0102-binary-tree-level-order-traversal.java",
           "path": "Medium/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.java",
           "sha": "6dc4eeb6eb5f872cb1e266bbb20b65b039f6f8a6",
-          "lastSyncedAt": "2026-10-13T15:46:06.810Z"
+          "lastSyncedAt": "2026-10-13T16:11:11.434Z"
         }
       ]
     },
