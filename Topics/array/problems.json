@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:41:25.743Z",
+  "updatedAt": "2026-10-13T15:41:43.839Z",
   "problems": [
     {
       "frontendId": "16",
@@ -183,7 +183,7 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.java",
           "path": "Medium/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
           "sha": "e77bb9ff813cf436a190e42acf8a2b05796f2fd4",
-          "lastSyncedAt": "2026-10-13T15:27:16.095Z"
+          "lastSyncedAt": "2026-10-13T15:41:43.839Z"
         }
       ]
     },
