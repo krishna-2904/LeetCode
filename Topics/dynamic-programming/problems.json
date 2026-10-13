@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:32:05.468Z",
+  "updatedAt": "2026-10-13T15:32:40.887Z",
   "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "Medium/0022-generate-parentheses/",
+      "readmePath": "Medium/0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0022-generate-parentheses.java",
+          "path": "Medium/0022-generate-parentheses/0022-generate-parentheses.java",
+          "sha": "ead99e51c0a180d7bde0158182e5888785c75ebb",
+          "lastSyncedAt": "2026-10-13T15:32:40.887Z"
+        }
+      ]
+    },
     {
       "frontendId": "91",
       "title": "Decode Ways",
