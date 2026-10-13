@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T15:09:42.016Z",
+  "updatedAt": "2026-10-13T15:12:26.569Z",
   "problems": [
     {
       "frontendId": "65",
@@ -24,6 +24,26 @@
           "path": "0065-valid-number/0065-valid-number.java",
           "sha": "86509022dd870d7d261fd0263bd78acede364bf2",
           "lastSyncedAt": "2026-10-13T15:09:42.016Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "0443-string-compression/",
+      "readmePath": "0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0443-string-compression.java",
+          "path": "0443-string-compression/0443-string-compression.java",
+          "sha": "d0efcd92810dd7e2fea75b8af240b84b23bab685",
+          "lastSyncedAt": "2026-10-13T15:12:26.569Z"
         }
       ]
     }
