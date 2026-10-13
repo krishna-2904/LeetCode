@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T15:43:00.434Z",
+  "updatedAt": "2026-10-13T15:50:57.800Z",
   "problems": [
     {
       "frontendId": "109",
@@ -24,6 +24,26 @@
           "path": "Medium/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.java",
           "sha": "6ea3cf2d7a383bf67b86c419619c1b2af0101de0",
           "lastSyncedAt": "2026-10-13T15:43:00.434Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "Medium/0148-sort-list/",
+      "readmePath": "Medium/0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0148-sort-list.java",
+          "path": "Medium/0148-sort-list/0148-sort-list.java",
+          "sha": "7b7b6b71a7c71f6d91c8a165f80fbc63ee38c7ba",
+          "lastSyncedAt": "2026-10-13T15:50:57.800Z"
         }
       ]
     }
