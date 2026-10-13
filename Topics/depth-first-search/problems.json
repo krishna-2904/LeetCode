@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T15:33:53.949Z",
+  "updatedAt": "2026-10-13T15:37:01.889Z",
   "problems": [
     {
       "frontendId": "111",
@@ -24,6 +24,26 @@
           "path": "Easy/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.java",
           "sha": "294e854c14f4a067d8bb153b622e3b195964cb3f",
           "lastSyncedAt": "2026-10-13T15:33:53.949Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "problemName": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "folderPath": "Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/",
+      "readmePath": "Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.java",
+          "path": "Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.java",
+          "sha": "117a158da5ea62a97e3e936b3624575aac5deec4",
+          "lastSyncedAt": "2026-10-13T15:37:01.889Z"
         }
       ]
     },
