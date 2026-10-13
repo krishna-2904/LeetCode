@@ -5,7 +5,7 @@
     "name": "Longest Increasing Subsequence",
     "tagId": "122079"
   },
-  "updatedAt": "2026-10-13T16:11:19.134Z",
+  "updatedAt": "2026-10-13T16:11:29.786Z",
   "problems": [
     {
       "frontendId": "334",
@@ -43,7 +43,7 @@
           "filename": "0354-russian-doll-envelopes.java",
           "path": "Hard/0354-russian-doll-envelopes/0354-russian-doll-envelopes.java",
           "sha": "2d9ddcb0fef61dd44fc4e96c4d3112c135380979",
-          "lastSyncedAt": "2026-10-13T15:46:26.415Z"
+          "lastSyncedAt": "2026-10-13T16:11:29.786Z"
         }
       ]
     },
