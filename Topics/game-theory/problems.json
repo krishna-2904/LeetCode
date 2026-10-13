@@ -5,7 +5,7 @@
     "name": "Game Theory",
     "tagId": "61073"
   },
-  "updatedAt": "2026-10-13T15:42:29.622Z",
+  "updatedAt": "2026-10-13T16:07:44.490Z",
   "problems": [
     {
       "frontendId": "486",
@@ -23,7 +23,7 @@
           "filename": "0486-predict-the-winner.java",
           "path": "Medium/0486-predict-the-winner/0486-predict-the-winner.java",
           "sha": "3411f71138fb6d0cdd572366204ca73b3bee71ea",
-          "lastSyncedAt": "2026-10-13T15:42:13.101Z"
+          "lastSyncedAt": "2026-10-13T16:07:44.490Z"
         }
       ]
     },
