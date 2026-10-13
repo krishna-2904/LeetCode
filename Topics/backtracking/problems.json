@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-13T15:12:50.112Z",
+  "problems": [
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0090-subsets-ii.java",
+          "path": "0090-subsets-ii/0090-subsets-ii.java",
+          "sha": "e3291ed7fd6b777ed3b80b50e3bfbc4fac051db4",
+          "lastSyncedAt": "2026-10-13T15:12:50.112Z"
+        }
+      ]
+    }
+  ]
+}
