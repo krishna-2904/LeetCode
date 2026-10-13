@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:19:42.481Z",
+  "updatedAt": "2026-10-13T15:19:59.926Z",
   "problems": [
     {
       "frontendId": "31",
@@ -134,8 +134,8 @@
       "problemName": "0334-increasing-triplet-subsequence",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
-      "folderPath": "0334-increasing-triplet-subsequence/",
-      "readmePath": "0334-increasing-triplet-subsequence/README.md",
+      "folderPath": "Medium/0334-increasing-triplet-subsequence/",
+      "readmePath": "Medium/0334-increasing-triplet-subsequence/README.md",
       "solutions": [
         {
           "language": "Java",
@@ -143,7 +143,7 @@
           "filename": "0334-increasing-triplet-subsequence.java",
           "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.java",
           "sha": "f51edc837e6c41cbdda51ad4698797c5179f1eab",
-          "lastSyncedAt": "2026-10-13T15:12:37.920Z"
+          "lastSyncedAt": "2026-10-13T15:19:59.926Z"
         }
       ]
     },
