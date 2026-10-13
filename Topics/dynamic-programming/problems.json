@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:28:35.069Z",
+  "updatedAt": "2026-10-13T15:28:48.159Z",
   "problems": [
+    {
+      "frontendId": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "problemName": "0131-palindrome-partitioning",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+      "folderPath": "Medium/0131-palindrome-partitioning/",
+      "readmePath": "Medium/0131-palindrome-partitioning/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0131-palindrome-partitioning.java",
+          "path": "Medium/0131-palindrome-partitioning/0131-palindrome-partitioning.java",
+          "sha": "cec36091c9af5f5481b8b7753007e7f0d50c853a",
+          "lastSyncedAt": "2026-10-13T15:28:48.159Z"
+        }
+      ]
+    },
     {
       "frontendId": "132",
       "title": "Palindrome Partitioning II",
