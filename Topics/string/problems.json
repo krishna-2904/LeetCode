@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T15:32:05.468Z",
+  "updatedAt": "2026-10-13T15:32:29.283Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "Medium/0012-integer-to-roman/0012-integer-to-roman.java",
           "sha": "7ab67e7817e542cba2d0e0541fc2e797edbc7764",
           "lastSyncedAt": "2026-10-13T15:30:19.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "problemName": "0017-letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "folderPath": "Medium/0017-letter-combinations-of-a-phone-number/",
+      "readmePath": "Medium/0017-letter-combinations-of-a-phone-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0017-letter-combinations-of-a-phone-number.java",
+          "path": "Medium/0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
+          "sha": "4b9040a26529fc345cf21b0de8207586058c7a88",
+          "lastSyncedAt": "2026-10-13T15:32:29.283Z"
         }
       ]
     },
