@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:19:35.796Z",
+  "updatedAt": "2026-10-13T15:19:42.481Z",
   "problems": [
     {
       "frontendId": "31",
@@ -174,8 +174,8 @@
       "problemName": "1679-max-number-of-k-sum-pairs",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/max-number-of-k-sum-pairs/",
-      "folderPath": "1679-max-number-of-k-sum-pairs/",
-      "readmePath": "1679-max-number-of-k-sum-pairs/README.md",
+      "folderPath": "Medium/1679-max-number-of-k-sum-pairs/",
+      "readmePath": "Medium/1679-max-number-of-k-sum-pairs/README.md",
       "solutions": [
         {
           "language": "Java",
@@ -183,7 +183,7 @@
           "filename": "1679-max-number-of-k-sum-pairs.java",
           "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.java",
           "sha": "52bce04007b087e3c3804dfe4aa6db325858c499",
-          "lastSyncedAt": "2026-10-13T15:12:08.120Z"
+          "lastSyncedAt": "2026-10-13T15:19:42.481Z"
         }
       ]
     },
