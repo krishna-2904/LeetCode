@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T15:26:42.974Z",
+  "updatedAt": "2026-10-13T15:27:44.735Z",
   "problems": [
     {
       "frontendId": "60",
@@ -24,6 +24,26 @@
           "path": "0060-permutation-sequence/0060-permutation-sequence.java",
           "sha": "0d8ffee9368b162575b8d3c3417ecd5332a3105e",
           "lastSyncedAt": "2026-10-13T15:26:42.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "Medium/0486-predict-the-winner/",
+      "readmePath": "Medium/0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0486-predict-the-winner.java",
+          "path": "Medium/0486-predict-the-winner/0486-predict-the-winner.java",
+          "sha": "3411f71138fb6d0cdd572366204ca73b3bee71ea",
+          "lastSyncedAt": "2026-10-13T15:27:44.735Z"
         }
       ]
     }
