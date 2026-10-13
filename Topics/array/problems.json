@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:15:26.923Z",
+  "updatedAt": "2026-10-13T16:15:35.601Z",
   "problems": [
     {
       "frontendId": "16",
@@ -684,6 +684,26 @@
           "path": "Easy/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
           "sha": "d3c78caa7b8ed51c394291d127d681a73862016b",
           "lastSyncedAt": "2026-10-13T16:15:11.805Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "problemName": "2942-find-words-containing-character",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-containing-character/",
+      "folderPath": "Easy/2942-find-words-containing-character/",
+      "readmePath": "Easy/2942-find-words-containing-character/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2942-find-words-containing-character.java",
+          "path": "Easy/2942-find-words-containing-character/2942-find-words-containing-character.java",
+          "sha": "fb042b195f187d73cef681ce4e05551176dc01a4",
+          "lastSyncedAt": "2026-10-13T16:15:35.601Z"
         }
       ]
     },
