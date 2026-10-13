@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T15:50:32.307Z",
+  "updatedAt": "2026-10-13T15:50:43.576Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "Medium/0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
           "sha": "4b9040a26529fc345cf21b0de8207586058c7a88",
           "lastSyncedAt": "2026-10-13T15:44:49.703Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "Easy/0160-intersection-of-two-linked-lists/",
+      "readmePath": "Easy/0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0160-intersection-of-two-linked-lists.java",
+          "path": "Easy/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.java",
+          "sha": "8d2263cea049bc1e794cae46eeb420d156edee3c",
+          "lastSyncedAt": "2026-10-13T15:50:43.576Z"
         }
       ]
     },
