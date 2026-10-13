@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-13T15:09:16.218Z",
-  "problems": []
+  "updatedAt": "2026-10-13T15:09:42.016Z",
+  "problems": [
+    {
+      "frontendId": "65",
+      "title": "Valid Number",
+      "slug": "valid-number",
+      "problemName": "0065-valid-number",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-number/",
+      "folderPath": "0065-valid-number/",
+      "readmePath": "0065-valid-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0065-valid-number.java",
+          "path": "0065-valid-number/0065-valid-number.java",
+          "sha": "86509022dd870d7d261fd0263bd78acede364bf2",
+          "lastSyncedAt": "2026-10-13T15:09:42.016Z"
+        }
+      ]
+    }
+  ]
 }
