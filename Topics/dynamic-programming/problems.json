@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:35:44.221Z",
+  "updatedAt": "2026-10-13T15:35:57.737Z",
   "problems": [
     {
       "frontendId": "22",
@@ -204,6 +204,26 @@
           "path": "Medium/0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.java",
           "sha": "1c3eae87b329d8c80807cef66244ced3a53b4672",
           "lastSyncedAt": "2026-10-13T15:30:54.109Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "845",
+      "title": "Longest Mountain in Array",
+      "slug": "longest-mountain-in-array",
+      "problemName": "0845-longest-mountain-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-mountain-in-array/",
+      "folderPath": "Medium/0845-longest-mountain-in-array/",
+      "readmePath": "Medium/0845-longest-mountain-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0845-longest-mountain-in-array.java",
+          "path": "Medium/0845-longest-mountain-in-array/0845-longest-mountain-in-array.java",
+          "sha": "d67422f0e3a0fc99793153cef136638d57b34568",
+          "lastSyncedAt": "2026-10-13T15:35:57.737Z"
         }
       ]
     },
