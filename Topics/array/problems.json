@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:35:29.991Z",
+  "updatedAt": "2026-10-13T15:35:44.221Z",
   "problems": [
     {
       "frontendId": "16",
@@ -444,6 +444,26 @@
           "path": "Hard/1547-minimum-cost-to-cut-a-stick/1547-minimum-cost-to-cut-a-stick.java",
           "sha": "d78805a8abefa0bbec35454de57ce9fef060813e",
           "lastSyncedAt": "2026-10-13T15:27:33.495Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1671",
+      "title": "Minimum Number of Removals to Make Mountain Array",
+      "slug": "minimum-number-of-removals-to-make-mountain-array",
+      "problemName": "1671-minimum-number-of-removals-to-make-mountain-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
+      "folderPath": "Hard/1671-minimum-number-of-removals-to-make-mountain-array/",
+      "readmePath": "Hard/1671-minimum-number-of-removals-to-make-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1671-minimum-number-of-removals-to-make-mountain-array.java",
+          "path": "Hard/1671-minimum-number-of-removals-to-make-mountain-array/1671-minimum-number-of-removals-to-make-mountain-array.java",
+          "sha": "8fadaae176b5ce815cee08ba699281caf8062840",
+          "lastSyncedAt": "2026-10-13T15:35:44.221Z"
         }
       ]
     },
