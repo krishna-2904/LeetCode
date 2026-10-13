@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-13T16:10:23.497Z",
+  "updatedAt": "2026-10-13T16:11:01.692Z",
   "problems": [
     {
       "frontendId": "98",
@@ -43,7 +43,7 @@
           "filename": "0111-minimum-depth-of-binary-tree.java",
           "path": "Easy/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.java",
           "sha": "294e854c14f4a067d8bb153b622e3b195964cb3f",
-          "lastSyncedAt": "2026-10-13T15:45:56.031Z"
+          "lastSyncedAt": "2026-10-13T16:11:01.692Z"
         }
       ]
     },
