@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:31:55.686Z",
+  "updatedAt": "2026-10-13T15:32:16.160Z",
   "problems": [
     {
       "frontendId": "16",
@@ -404,6 +404,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.java",
           "sha": "3a2de617f1f3bb4fa35d62246607af74edbfd462",
           "lastSyncedAt": "2026-10-13T15:25:26.123Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3909",
+      "title": "Compare Sums of Bitonic Parts",
+      "slug": "compare-sums-of-bitonic-parts",
+      "problemName": "3909-compare-sums-of-bitonic-parts",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/compare-sums-of-bitonic-parts/",
+      "folderPath": "Medium/3909-compare-sums-of-bitonic-parts/",
+      "readmePath": "Medium/3909-compare-sums-of-bitonic-parts/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3909-compare-sums-of-bitonic-parts.java",
+          "path": "Medium/3909-compare-sums-of-bitonic-parts/3909-compare-sums-of-bitonic-parts.java",
+          "sha": "17b537f9a878bd5de7a95987b4f8680700ebbb45",
+          "lastSyncedAt": "2026-10-13T15:32:16.160Z"
         }
       ]
     }
