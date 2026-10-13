@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:08:52.415Z",
+  "updatedAt": "2026-10-13T16:09:13.757Z",
   "problems": [
     {
       "frontendId": "16",
@@ -463,7 +463,7 @@
           "filename": "0983-minimum-cost-for-tickets.java",
           "path": "Medium/0983-minimum-cost-for-tickets/0983-minimum-cost-for-tickets.java",
           "sha": "9630db9707abf3c937e9910e387b5f27bb32f42b",
-          "lastSyncedAt": "2026-10-13T15:43:51.884Z"
+          "lastSyncedAt": "2026-10-13T16:09:13.757Z"
         }
       ]
     },
