@@ -5,7 +5,7 @@
     "name": "Zero-Sum Game",
     "tagId": "122082"
   },
-  "updatedAt": "2026-10-13T15:27:44.735Z",
+  "updatedAt": "2026-10-13T15:28:09.959Z",
   "problems": [
     {
       "frontendId": "486",
@@ -24,6 +24,26 @@
           "path": "Medium/0486-predict-the-winner/0486-predict-the-winner.java",
           "sha": "3411f71138fb6d0cdd572366204ca73b3bee71ea",
           "lastSyncedAt": "2026-10-13T15:27:44.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "Medium/0877-stone-game/",
+      "readmePath": "Medium/0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0877-stone-game.java",
+          "path": "Medium/0877-stone-game/0877-stone-game.java",
+          "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
+          "lastSyncedAt": "2026-10-13T15:28:09.959Z"
         }
       ]
     }
