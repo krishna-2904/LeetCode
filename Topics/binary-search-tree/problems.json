@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-10-13T15:37:01.889Z",
+  "updatedAt": "2026-10-13T15:43:00.434Z",
   "problems": [
     {
       "frontendId": "109",
@@ -23,7 +23,7 @@
           "filename": "0109-convert-sorted-list-to-binary-search-tree.java",
           "path": "Medium/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.java",
           "sha": "6ea3cf2d7a383bf67b86c419619c1b2af0101de0",
-          "lastSyncedAt": "2026-10-13T15:29:15.122Z"
+          "lastSyncedAt": "2026-10-13T15:43:00.434Z"
         }
       ]
     },
