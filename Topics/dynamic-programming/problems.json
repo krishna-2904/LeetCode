@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:31:47.036Z",
+  "updatedAt": "2026-10-13T15:31:55.686Z",
   "problems": [
     {
       "frontendId": "131",
@@ -44,6 +44,26 @@
           "path": "Hard/0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.java",
           "sha": "218c4b0f8584e1dcdd86589c13aafe3e3b320865",
           "lastSyncedAt": "2026-10-13T15:27:23.693Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "377",
+      "title": "Combination Sum IV",
+      "slug": "combination-sum-iv",
+      "problemName": "0377-combination-sum-iv",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iv/",
+      "folderPath": "Medium/0377-combination-sum-iv/",
+      "readmePath": "Medium/0377-combination-sum-iv/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0377-combination-sum-iv.java",
+          "path": "Medium/0377-combination-sum-iv/0377-combination-sum-iv.java",
+          "sha": "36d994f78f5abc195513cf8c337288a86ba48b0e",
+          "lastSyncedAt": "2026-10-13T15:31:55.686Z"
         }
       ]
     },
