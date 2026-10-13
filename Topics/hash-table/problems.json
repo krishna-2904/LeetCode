@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T15:50:03.377Z",
+  "updatedAt": "2026-10-13T15:50:32.307Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.java",
           "sha": "52bce04007b087e3c3804dfe4aa6db325858c499",
           "lastSyncedAt": "2026-10-13T15:40:19.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1807",
+      "title": "Evaluate the Bracket Pairs of a String",
+      "slug": "evaluate-the-bracket-pairs-of-a-string",
+      "problemName": "1807-evaluate-the-bracket-pairs-of-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/",
+      "folderPath": "Medium/1807-evaluate-the-bracket-pairs-of-a-string/",
+      "readmePath": "Medium/1807-evaluate-the-bracket-pairs-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1807-evaluate-the-bracket-pairs-of-a-string.java",
+          "path": "Medium/1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java",
+          "sha": "ead69ef35fe2fd0635ef39e06fd13c212e08d8a4",
+          "lastSyncedAt": "2026-10-13T15:50:32.307Z"
         }
       ]
     },
