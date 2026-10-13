@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T15:27:16.095Z",
+  "updatedAt": "2026-10-13T15:31:09.477Z",
   "problems": [
     {
       "frontendId": "34",
@@ -44,6 +44,26 @@
           "path": "Medium/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
           "sha": "e77bb9ff813cf436a190e42acf8a2b05796f2fd4",
           "lastSyncedAt": "2026-10-13T15:27:16.095Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1964",
+      "title": "Find the Longest Valid Obstacle Course at Each Position",
+      "slug": "find-the-longest-valid-obstacle-course-at-each-position",
+      "problemName": "1964-find-the-longest-valid-obstacle-course-at-each-position",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/",
+      "folderPath": "Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/",
+      "readmePath": "Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1964-find-the-longest-valid-obstacle-course-at-each-position.java",
+          "path": "Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/1964-find-the-longest-valid-obstacle-course-at-each-position.java",
+          "sha": "d4c2bce284dc8bcc081979dd098f843d6d89ce32",
+          "lastSyncedAt": "2026-10-13T15:31:09.477Z"
         }
       ]
     }
