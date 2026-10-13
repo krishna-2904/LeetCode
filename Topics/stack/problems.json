@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-10-13T15:48:00.368Z",
+  "updatedAt": "2026-10-13T15:48:52.558Z",
   "problems": [
     {
       "frontendId": "143",
@@ -24,6 +24,26 @@
           "path": "Medium/0143-reorder-list/0143-reorder-list.java",
           "sha": "8d9b665b3cfdfd6f2229845af672b33590aa0618",
           "lastSyncedAt": "2026-10-13T15:47:49.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1190",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "slug": "reverse-substrings-between-each-pair-of-parentheses",
+      "problemName": "1190-reverse-substrings-between-each-pair-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
+      "folderPath": "Medium/1190-reverse-substrings-between-each-pair-of-parentheses/",
+      "readmePath": "Medium/1190-reverse-substrings-between-each-pair-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.java",
+          "path": "Medium/1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.java",
+          "sha": "9d2284fbc9001243045c07a4b780fd5b453e4871",
+          "lastSyncedAt": "2026-10-13T15:48:52.558Z"
         }
       ]
     },
