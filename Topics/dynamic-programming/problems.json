@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:42:49.036Z",
+  "updatedAt": "2026-10-13T15:43:51.884Z",
   "problems": [
     {
       "frontendId": "22",
@@ -263,7 +263,7 @@
           "filename": "0983-minimum-cost-for-tickets.java",
           "path": "Medium/0983-minimum-cost-for-tickets/0983-minimum-cost-for-tickets.java",
           "sha": "9630db9707abf3c937e9910e387b5f27bb32f42b",
-          "lastSyncedAt": "2026-10-13T15:30:44.375Z"
+          "lastSyncedAt": "2026-10-13T15:43:51.884Z"
         }
       ]
     },
