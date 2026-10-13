@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T16:11:29.786Z",
+  "updatedAt": "2026-10-13T16:12:03.277Z",
   "problems": [
     {
       "frontendId": "34",
@@ -103,7 +103,7 @@
           "filename": "1027-longest-arithmetic-subsequence.java",
           "path": "Medium/1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java",
           "sha": "0e4ddc140ae97a881200760c51c61329fc3dab23",
-          "lastSyncedAt": "2026-10-13T15:47:01.734Z"
+          "lastSyncedAt": "2026-10-13T16:12:03.277Z"
         }
       ]
     },
