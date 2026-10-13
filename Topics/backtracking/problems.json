@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-13T15:26:36.842Z",
+  "updatedAt": "2026-10-13T15:26:53.876Z",
   "problems": [
     {
       "frontendId": "39",
@@ -63,7 +63,7 @@
           "filename": "0047-permutations-ii.java",
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "029ff936a2776d0b8bc391e0e32931d12ca4f385",
-          "lastSyncedAt": "2026-10-13T15:22:55.235Z"
+          "lastSyncedAt": "2026-10-13T15:26:53.876Z"
         }
       ]
     },
