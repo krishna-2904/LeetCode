@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T15:21:35.738Z",
+  "updatedAt": "2026-10-13T15:21:46.365Z",
   "problems": [
     {
       "frontendId": "47",
@@ -43,7 +43,7 @@
           "filename": "1679-max-number-of-k-sum-pairs.java",
           "path": "1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.java",
           "sha": "52bce04007b087e3c3804dfe4aa6db325858c499",
-          "lastSyncedAt": "2026-10-13T15:19:42.481Z"
+          "lastSyncedAt": "2026-10-13T15:21:46.365Z"
         }
       ]
     },
