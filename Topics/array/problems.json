@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:41:09.426Z",
+  "updatedAt": "2026-10-13T15:41:17.496Z",
   "problems": [
     {
       "frontendId": "16",
@@ -123,7 +123,7 @@
           "filename": "0047-permutations-ii.java",
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "029ff936a2776d0b8bc391e0e32931d12ca4f385",
-          "lastSyncedAt": "2026-10-13T15:26:53.876Z"
+          "lastSyncedAt": "2026-10-13T15:41:17.496Z"
         }
       ]
     },
