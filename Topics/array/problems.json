@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:12:37.920Z",
+  "updatedAt": "2026-10-13T15:12:50.112Z",
   "problems": [
     {
       "frontendId": "34",
@@ -24,6 +24,26 @@
           "path": "0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.java",
           "sha": "dded1178cd65a17e863ce84eacb5aa5758d7f9c4",
           "lastSyncedAt": "2026-10-13T15:09:48.102Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "0090-subsets-ii/",
+      "readmePath": "0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0090-subsets-ii.java",
+          "path": "0090-subsets-ii/0090-subsets-ii.java",
+          "sha": "e3291ed7fd6b777ed3b80b50e3bfbc4fac051db4",
+          "lastSyncedAt": "2026-10-13T15:12:50.112Z"
         }
       ]
     },
