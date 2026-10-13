@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:10:33.293Z",
+  "updatedAt": "2026-10-13T16:11:19.134Z",
   "problems": [
     {
       "frontendId": "16",
@@ -383,7 +383,7 @@
           "filename": "0673-number-of-longest-increasing-subsequence.java",
           "path": "Medium/0673-number-of-longest-increasing-subsequence/0673-number-of-longest-increasing-subsequence.java",
           "sha": "ff6508f2b9ae9daf08e6f50bfdc13ef8156a1c8b",
-          "lastSyncedAt": "2026-10-13T15:46:14.446Z"
+          "lastSyncedAt": "2026-10-13T16:11:19.134Z"
         }
       ]
     },
