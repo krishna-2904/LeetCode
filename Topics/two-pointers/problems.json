@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T15:50:43.576Z",
+  "updatedAt": "2026-10-13T15:50:57.800Z",
   "problems": [
     {
       "frontendId": "16",
@@ -104,6 +104,26 @@
           "path": "Medium/0143-reorder-list/0143-reorder-list.java",
           "sha": "8d9b665b3cfdfd6f2229845af672b33590aa0618",
           "lastSyncedAt": "2026-10-13T15:47:49.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "Medium/0148-sort-list/",
+      "readmePath": "Medium/0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0148-sort-list.java",
+          "path": "Medium/0148-sort-list/0148-sort-list.java",
+          "sha": "7b7b6b71a7c71f6d91c8a165f80fbc63ee38c7ba",
+          "lastSyncedAt": "2026-10-13T15:50:57.800Z"
         }
       ]
     },
