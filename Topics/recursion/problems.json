@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T16:06:47.706Z",
+  "updatedAt": "2026-10-13T16:07:44.490Z",
   "problems": [
     {
       "frontendId": "60",
@@ -63,7 +63,7 @@
           "filename": "0486-predict-the-winner.java",
           "path": "Medium/0486-predict-the-winner/0486-predict-the-winner.java",
           "sha": "3411f71138fb6d0cdd572366204ca73b3bee71ea",
-          "lastSyncedAt": "2026-10-13T15:42:13.101Z"
+          "lastSyncedAt": "2026-10-13T16:07:44.490Z"
         }
       ]
     }
