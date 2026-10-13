@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:25:43.559Z",
+  "updatedAt": "2026-10-13T15:26:05.468Z",
   "problems": [
     {
       "frontendId": "31",
@@ -163,7 +163,7 @@
           "filename": "0334-increasing-triplet-subsequence.java",
           "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.java",
           "sha": "f51edc837e6c41cbdda51ad4698797c5179f1eab",
-          "lastSyncedAt": "2026-10-13T15:21:59.003Z"
+          "lastSyncedAt": "2026-10-13T15:26:05.468Z"
         }
       ]
     },
