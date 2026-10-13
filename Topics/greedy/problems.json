@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T15:21:59.003Z",
+  "updatedAt": "2026-10-13T15:23:15.433Z",
   "problems": [
     {
       "frontendId": "334",
@@ -24,6 +24,26 @@
           "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.java",
           "sha": "f51edc837e6c41cbdda51ad4698797c5179f1eab",
           "lastSyncedAt": "2026-10-13T15:21:59.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1541",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "slug": "minimum-insertions-to-balance-a-parentheses-string",
+      "problemName": "1541-minimum-insertions-to-balance-a-parentheses-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+      "folderPath": "Medium/1541-minimum-insertions-to-balance-a-parentheses-string/",
+      "readmePath": "Medium/1541-minimum-insertions-to-balance-a-parentheses-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.java",
+          "path": "Medium/1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.java",
+          "sha": "3a0ea0ae6ef57879a1a513e907cbf6cafeb9ded7",
+          "lastSyncedAt": "2026-10-13T15:23:15.433Z"
         }
       ]
     },
