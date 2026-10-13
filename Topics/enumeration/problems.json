@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration",
+    "tagId": "61066"
+  },
+  "updatedAt": "2026-10-13T15:35:57.737Z",
+  "problems": [
+    {
+      "frontendId": "845",
+      "title": "Longest Mountain in Array",
+      "slug": "longest-mountain-in-array",
+      "problemName": "0845-longest-mountain-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-mountain-in-array/",
+      "folderPath": "Medium/0845-longest-mountain-in-array/",
+      "readmePath": "Medium/0845-longest-mountain-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0845-longest-mountain-in-array.java",
+          "path": "Medium/0845-longest-mountain-in-array/0845-longest-mountain-in-array.java",
+          "sha": "d67422f0e3a0fc99793153cef136638d57b34568",
+          "lastSyncedAt": "2026-10-13T15:35:57.737Z"
+        }
+      ]
+    }
+  ]
+}
