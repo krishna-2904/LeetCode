@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T15:34:56.001Z",
+  "updatedAt": "2026-10-13T15:35:57.737Z",
   "problems": [
     {
       "frontendId": "16",
@@ -124,6 +124,26 @@
           "path": "0443-string-compression/0443-string-compression.java",
           "sha": "d0efcd92810dd7e2fea75b8af240b84b23bab685",
           "lastSyncedAt": "2026-10-13T15:25:57.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "845",
+      "title": "Longest Mountain in Array",
+      "slug": "longest-mountain-in-array",
+      "problemName": "0845-longest-mountain-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-mountain-in-array/",
+      "folderPath": "Medium/0845-longest-mountain-in-array/",
+      "readmePath": "Medium/0845-longest-mountain-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0845-longest-mountain-in-array.java",
+          "path": "Medium/0845-longest-mountain-in-array/0845-longest-mountain-in-array.java",
+          "sha": "d67422f0e3a0fc99793153cef136638d57b34568",
+          "lastSyncedAt": "2026-10-13T15:35:57.737Z"
         }
       ]
     },
