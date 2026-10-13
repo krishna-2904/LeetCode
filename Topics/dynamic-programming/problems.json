@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:30:54.109Z",
+  "updatedAt": "2026-10-13T15:31:39.289Z",
   "problems": [
     {
       "frontendId": "131",
@@ -164,6 +164,26 @@
           "path": "Hard/1547-minimum-cost-to-cut-a-stick/1547-minimum-cost-to-cut-a-stick.java",
           "sha": "d78805a8abefa0bbec35454de57ce9fef060813e",
           "lastSyncedAt": "2026-10-13T15:27:33.495Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2466",
+      "title": "Count Ways To Build Good Strings",
+      "slug": "count-ways-to-build-good-strings",
+      "problemName": "2466-count-ways-to-build-good-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-ways-to-build-good-strings/",
+      "folderPath": "Medium/2466-count-ways-to-build-good-strings/",
+      "readmePath": "Medium/2466-count-ways-to-build-good-strings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2466-count-ways-to-build-good-strings.java",
+          "path": "Medium/2466-count-ways-to-build-good-strings/2466-count-ways-to-build-good-strings.java",
+          "sha": "f20e133c5c0cda0402e21c4743fada8a2ce984b8",
+          "lastSyncedAt": "2026-10-13T15:31:39.289Z"
         }
       ]
     }
