@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:28:09.959Z",
+  "updatedAt": "2026-10-13T15:28:35.069Z",
   "problems": [
     {
       "frontendId": "132",
@@ -64,6 +64,26 @@
           "path": "Medium/0877-stone-game/0877-stone-game.java",
           "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
           "lastSyncedAt": "2026-10-13T15:28:09.959Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1043",
+      "title": "Partition Array for Maximum Sum",
+      "slug": "partition-array-for-maximum-sum",
+      "problemName": "1043-partition-array-for-maximum-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+      "folderPath": "Medium/1043-partition-array-for-maximum-sum/",
+      "readmePath": "Medium/1043-partition-array-for-maximum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1043-partition-array-for-maximum-sum.java",
+          "path": "Medium/1043-partition-array-for-maximum-sum/1043-partition-array-for-maximum-sum.java",
+          "sha": "b4430a84fd0cf6c460248b7ed6dd4311338f86b2",
+          "lastSyncedAt": "2026-10-13T15:28:35.069Z"
         }
       ]
     },
