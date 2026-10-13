@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T15:50:21.691Z",
+  "updatedAt": "2026-10-13T15:51:26.082Z",
   "problems": [
     {
       "frontendId": "12",
@@ -44,6 +44,26 @@
           "path": "0060-permutation-sequence/0060-permutation-sequence.java",
           "sha": "0d8ffee9368b162575b8d3c3417ecd5332a3105e",
           "lastSyncedAt": "2026-10-13T15:41:03.750Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "368",
+      "title": "Largest Divisible Subset",
+      "slug": "largest-divisible-subset",
+      "problemName": "0368-largest-divisible-subset",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-divisible-subset/",
+      "folderPath": "Medium/0368-largest-divisible-subset/",
+      "readmePath": "Medium/0368-largest-divisible-subset/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0368-largest-divisible-subset.java",
+          "path": "Medium/0368-largest-divisible-subset/0368-largest-divisible-subset.java",
+          "sha": "7a61e3c08f67e0ae352ca7aff1d5f1b43d91a9e1",
+          "lastSyncedAt": "2026-10-13T15:51:26.082Z"
         }
       ]
     },
