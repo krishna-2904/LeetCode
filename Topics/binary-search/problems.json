@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T15:35:29.991Z",
+  "updatedAt": "2026-10-13T15:35:44.221Z",
   "problems": [
     {
       "frontendId": "34",
@@ -84,6 +84,26 @@
           "path": "Medium/1027-longest-arithmetic-subsequence/1027-longest-arithmetic-subsequence.java",
           "sha": "0e4ddc140ae97a881200760c51c61329fc3dab23",
           "lastSyncedAt": "2026-10-13T15:35:29.991Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1671",
+      "title": "Minimum Number of Removals to Make Mountain Array",
+      "slug": "minimum-number-of-removals-to-make-mountain-array",
+      "problemName": "1671-minimum-number-of-removals-to-make-mountain-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/",
+      "folderPath": "Hard/1671-minimum-number-of-removals-to-make-mountain-array/",
+      "readmePath": "Hard/1671-minimum-number-of-removals-to-make-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1671-minimum-number-of-removals-to-make-mountain-array.java",
+          "path": "Hard/1671-minimum-number-of-removals-to-make-mountain-array/1671-minimum-number-of-removals-to-make-mountain-array.java",
+          "sha": "8fadaae176b5ce815cee08ba699281caf8062840",
+          "lastSyncedAt": "2026-10-13T15:35:44.221Z"
         }
       ]
     },
