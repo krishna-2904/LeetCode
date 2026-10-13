@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:50:32.307Z",
+  "updatedAt": "2026-10-13T15:51:16.026Z",
   "problems": [
     {
       "frontendId": "16",
@@ -164,6 +164,26 @@
           "path": "0090-subsets-ii/0090-subsets-ii.java",
           "sha": "e3291ed7fd6b777ed3b80b50e3bfbc4fac051db4",
           "lastSyncedAt": "2026-10-13T15:40:44.532Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "problemName": "0137-single-number-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+      "folderPath": "Medium/0137-single-number-ii/",
+      "readmePath": "Medium/0137-single-number-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0137-single-number-ii.java",
+          "path": "Medium/0137-single-number-ii/0137-single-number-ii.java",
+          "sha": "6baffeeede35e6fcd66b78290fbbd4f11f570168",
+          "lastSyncedAt": "2026-10-13T15:51:16.026Z"
         }
       ]
     },
