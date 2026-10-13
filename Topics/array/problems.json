@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:50:03.377Z",
+  "updatedAt": "2026-10-13T15:50:21.691Z",
   "problems": [
     {
       "frontendId": "16",
@@ -644,6 +644,26 @@
           "path": "Medium/3909-compare-sums-of-bitonic-parts/3909-compare-sums-of-bitonic-parts.java",
           "sha": "17b537f9a878bd5de7a95987b4f8680700ebbb45",
           "lastSyncedAt": "2026-10-13T15:44:43.382Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4061",
+      "title": "Minimum Queen Moves to Reach Target",
+      "slug": "minimum-queen-moves-to-reach-target",
+      "problemName": "4061-minimum-queen-moves-to-reach-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-queen-moves-to-reach-target/",
+      "folderPath": "Easy/4061-minimum-queen-moves-to-reach-target/",
+      "readmePath": "Easy/4061-minimum-queen-moves-to-reach-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4061-minimum-queen-moves-to-reach-target.java",
+          "path": "Easy/4061-minimum-queen-moves-to-reach-target/4061-minimum-queen-moves-to-reach-target.java",
+          "sha": "19d24d6ce73d7c782e43438489304b5a5c741141",
+          "lastSyncedAt": "2026-10-13T15:50:21.691Z"
         }
       ]
     },
