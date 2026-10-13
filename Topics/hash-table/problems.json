@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T15:25:43.559Z",
+  "updatedAt": "2026-10-13T15:30:19.468Z",
   "problems": [
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "Medium/0012-integer-to-roman/",
+      "readmePath": "Medium/0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0012-integer-to-roman.java",
+          "path": "Medium/0012-integer-to-roman/0012-integer-to-roman.java",
+          "sha": "7ab67e7817e542cba2d0e0541fc2e797edbc7764",
+          "lastSyncedAt": "2026-10-13T15:30:19.468Z"
+        }
+      ]
+    },
     {
       "frontendId": "1679",
       "title": "Max Number of K-Sum Pairs",
