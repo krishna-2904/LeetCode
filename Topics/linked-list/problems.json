@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-13T15:36:33.228Z",
+  "updatedAt": "2026-10-13T15:42:57.355Z",
   "problems": [
     {
       "frontendId": "82",
@@ -103,7 +103,7 @@
           "filename": "0328-odd-even-linked-list.java",
           "path": "Medium/0328-odd-even-linked-list/0328-odd-even-linked-list.java",
           "sha": "2a9e4ea67e2744d62274eb865578c801d6f02b0c",
-          "lastSyncedAt": "2026-10-13T15:29:03.171Z"
+          "lastSyncedAt": "2026-10-13T15:42:57.355Z"
         }
       ]
     }
