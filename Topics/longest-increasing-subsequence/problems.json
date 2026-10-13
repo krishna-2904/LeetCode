@@ -5,7 +5,7 @@
     "name": "Longest Increasing Subsequence",
     "tagId": "122079"
   },
-  "updatedAt": "2026-10-13T15:26:05.468Z",
+  "updatedAt": "2026-10-13T15:31:09.477Z",
   "problems": [
     {
       "frontendId": "334",
@@ -24,6 +24,26 @@
           "path": "0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.java",
           "sha": "f51edc837e6c41cbdda51ad4698797c5179f1eab",
           "lastSyncedAt": "2026-10-13T15:26:05.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1964",
+      "title": "Find the Longest Valid Obstacle Course at Each Position",
+      "slug": "find-the-longest-valid-obstacle-course-at-each-position",
+      "problemName": "1964-find-the-longest-valid-obstacle-course-at-each-position",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/",
+      "folderPath": "Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/",
+      "readmePath": "Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1964-find-the-longest-valid-obstacle-course-at-each-position.java",
+          "path": "Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/1964-find-the-longest-valid-obstacle-course-at-each-position.java",
+          "sha": "d4c2bce284dc8bcc081979dd098f843d6d89ce32",
+          "lastSyncedAt": "2026-10-13T15:31:09.477Z"
         }
       ]
     }
