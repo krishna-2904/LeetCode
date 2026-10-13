@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T16:09:05.568Z",
+  "updatedAt": "2026-10-13T16:09:19.692Z",
   "problems": [
     {
       "frontendId": "3",
@@ -203,7 +203,7 @@
           "filename": "0712-minimum-ascii-delete-sum-for-two-strings.java",
           "path": "Medium/0712-minimum-ascii-delete-sum-for-two-strings/0712-minimum-ascii-delete-sum-for-two-strings.java",
           "sha": "1c3eae87b329d8c80807cef66244ced3a53b4672",
-          "lastSyncedAt": "2026-10-13T15:43:59.659Z"
+          "lastSyncedAt": "2026-10-13T16:09:19.692Z"
         }
       ]
     },
