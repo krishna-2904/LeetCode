@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:31:09.477Z",
+  "updatedAt": "2026-10-13T15:31:47.036Z",
   "problems": [
     {
       "frontendId": "16",
@@ -344,6 +344,26 @@
           "path": "Hard/1964-find-the-longest-valid-obstacle-course-at-each-position/1964-find-the-longest-valid-obstacle-course-at-each-position.java",
           "sha": "d4c2bce284dc8bcc081979dd098f843d6d89ce32",
           "lastSyncedAt": "2026-10-13T15:31:09.477Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2140",
+      "title": "Solving Questions With Brainpower",
+      "slug": "solving-questions-with-brainpower",
+      "problemName": "2140-solving-questions-with-brainpower",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/solving-questions-with-brainpower/",
+      "folderPath": "Medium/2140-solving-questions-with-brainpower/",
+      "readmePath": "Medium/2140-solving-questions-with-brainpower/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2140-solving-questions-with-brainpower.java",
+          "path": "Medium/2140-solving-questions-with-brainpower/2140-solving-questions-with-brainpower.java",
+          "sha": "b40f52888f87e2ba94c6cd34f0afe7152d38b9eb",
+          "lastSyncedAt": "2026-10-13T15:31:47.036Z"
         }
       ]
     },
