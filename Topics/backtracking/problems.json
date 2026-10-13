@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-13T15:22:31.572Z",
+  "updatedAt": "2026-10-13T15:22:55.235Z",
   "problems": [
     {
       "frontendId": "39",
@@ -54,8 +54,8 @@
       "problemName": "0047-permutations-ii",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/permutations-ii/",
-      "folderPath": "0047-permutations-ii/",
-      "readmePath": "0047-permutations-ii/README.md",
+      "folderPath": "Medium/0047-permutations-ii/",
+      "readmePath": "Medium/0047-permutations-ii/README.md",
       "solutions": [
         {
           "language": "Java",
@@ -63,7 +63,7 @@
           "filename": "0047-permutations-ii.java",
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "029ff936a2776d0b8bc391e0e32931d12ca4f385",
-          "lastSyncedAt": "2026-10-13T15:14:01.907Z"
+          "lastSyncedAt": "2026-10-13T15:22:55.235Z"
         }
       ]
     },
