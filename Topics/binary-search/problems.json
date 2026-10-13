@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T16:12:13.190Z",
+  "updatedAt": "2026-10-13T16:15:17.793Z",
   "problems": [
     {
       "frontendId": "34",
@@ -83,7 +83,7 @@
           "filename": "0633-sum-of-square-numbers.java",
           "path": "Medium/0633-sum-of-square-numbers/0633-sum-of-square-numbers.java",
           "sha": "684133c2171fbb93298494b0a14da9efca43a1ed",
-          "lastSyncedAt": "2026-10-13T15:51:54.875Z"
+          "lastSyncedAt": "2026-10-13T16:15:17.793Z"
         }
       ]
     },
