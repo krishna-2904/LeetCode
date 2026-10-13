@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-13T15:33:43.763Z",
+  "updatedAt": "2026-10-13T15:33:53.949Z",
   "problems": [
     {
       "frontendId": "103",
@@ -44,6 +44,26 @@
           "path": "Medium/0107-binary-tree-level-order-traversal-ii/0107-binary-tree-level-order-traversal-ii.java",
           "sha": "8a62c01a204ed6198df7881b77272def21e11266",
           "lastSyncedAt": "2026-10-13T15:33:30.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "111",
+      "title": "Minimum Depth of Binary Tree",
+      "slug": "minimum-depth-of-binary-tree",
+      "problemName": "0111-minimum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+      "folderPath": "Easy/0111-minimum-depth-of-binary-tree/",
+      "readmePath": "Easy/0111-minimum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0111-minimum-depth-of-binary-tree.java",
+          "path": "Easy/0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.java",
+          "sha": "294e854c14f4a067d8bb153b622e3b195964cb3f",
+          "lastSyncedAt": "2026-10-13T15:33:53.949Z"
         }
       ]
     },
