@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "brainteaser",
+    "name": "Brainteaser",
+    "tagId": "32"
+  },
+  "updatedAt": "2026-10-13T15:49:51.545Z",
+  "problems": [
+    {
+      "frontendId": "4062",
+      "title": "Transform Array Using Pair Operations",
+      "slug": "transform-array-using-pair-operations",
+      "problemName": "4062-transform-array-using-pair-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/transform-array-using-pair-operations/",
+      "folderPath": "Medium/4062-transform-array-using-pair-operations/",
+      "readmePath": "Medium/4062-transform-array-using-pair-operations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4062-transform-array-using-pair-operations.java",
+          "path": "Medium/4062-transform-array-using-pair-operations/4062-transform-array-using-pair-operations.java",
+          "sha": "60350af529fb817950020760a12a03b65f0934e0",
+          "lastSyncedAt": "2026-10-13T15:49:51.545Z"
+        }
+      ]
+    }
+  ]
+}
