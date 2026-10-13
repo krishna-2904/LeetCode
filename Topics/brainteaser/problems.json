@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-10-13T15:49:51.545Z",
+  "updatedAt": "2026-10-13T16:14:09.102Z",
   "problems": [
     {
       "frontendId": "4062",
@@ -23,7 +23,7 @@
           "filename": "4062-transform-array-using-pair-operations.java",
           "path": "Medium/4062-transform-array-using-pair-operations/4062-transform-array-using-pair-operations.java",
           "sha": "60350af529fb817950020760a12a03b65f0934e0",
-          "lastSyncedAt": "2026-10-13T15:49:51.545Z"
+          "lastSyncedAt": "2026-10-13T16:14:09.102Z"
         }
       ]
     }
