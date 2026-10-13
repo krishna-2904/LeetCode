@@ -5,8 +5,28 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-13T15:32:54.072Z",
+  "updatedAt": "2026-10-13T15:33:30.246Z",
   "problems": [
+    {
+      "frontendId": "107",
+      "title": "Binary Tree Level Order Traversal II",
+      "slug": "binary-tree-level-order-traversal-ii",
+      "problemName": "0107-binary-tree-level-order-traversal-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+      "folderPath": "Medium/0107-binary-tree-level-order-traversal-ii/",
+      "readmePath": "Medium/0107-binary-tree-level-order-traversal-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0107-binary-tree-level-order-traversal-ii.java",
+          "path": "Medium/0107-binary-tree-level-order-traversal-ii/0107-binary-tree-level-order-traversal-ii.java",
+          "sha": "8a62c01a204ed6198df7881b77272def21e11266",
+          "lastSyncedAt": "2026-10-13T15:33:30.246Z"
+        }
+      ]
+    },
     {
       "frontendId": "109",
       "title": "Convert Sorted List to Binary Search Tree",
