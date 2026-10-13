@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-10-13T15:49:21.947Z",
+  "problems": [
+    {
+      "frontendId": "4065",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "slug": "rearrange-array-by-removing-distinct-values",
+      "problemName": "4065-rearrange-array-by-removing-distinct-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+      "folderPath": "Easy/4065-rearrange-array-by-removing-distinct-values/",
+      "readmePath": "Easy/4065-rearrange-array-by-removing-distinct-values/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "4065-rearrange-array-by-removing-distinct-values.java",
+          "path": "Easy/4065-rearrange-array-by-removing-distinct-values/4065-rearrange-array-by-removing-distinct-values.java",
+          "sha": "67462728e71f7c24f457645f61ab3018b5786239",
+          "lastSyncedAt": "2026-10-13T15:49:21.947Z"
+        }
+      ]
+    }
+  ]
+}
