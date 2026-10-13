@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:31:55.686Z",
+  "updatedAt": "2026-10-13T15:32:05.468Z",
   "problems": [
+    {
+      "frontendId": "91",
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "problemName": "0091-decode-ways",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-ways/",
+      "folderPath": "Medium/0091-decode-ways/",
+      "readmePath": "Medium/0091-decode-ways/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0091-decode-ways.java",
+          "path": "Medium/0091-decode-ways/0091-decode-ways.java",
+          "sha": "01c85ebf0f170591c8d313d7248bc99113443191",
+          "lastSyncedAt": "2026-10-13T15:32:05.468Z"
+        }
+      ]
+    },
     {
       "frontendId": "131",
       "title": "Palindrome Partitioning",
