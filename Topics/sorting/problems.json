@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T15:33:13.265Z",
+  "updatedAt": "2026-10-13T15:34:38.531Z",
   "problems": [
     {
       "frontendId": "16",
@@ -44,6 +44,26 @@
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "029ff936a2776d0b8bc391e0e32931d12ca4f385",
           "lastSyncedAt": "2026-10-13T15:26:53.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "354",
+      "title": "Russian Doll Envelopes",
+      "slug": "russian-doll-envelopes",
+      "problemName": "0354-russian-doll-envelopes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes/",
+      "folderPath": "Hard/0354-russian-doll-envelopes/",
+      "readmePath": "Hard/0354-russian-doll-envelopes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0354-russian-doll-envelopes.java",
+          "path": "Hard/0354-russian-doll-envelopes/0354-russian-doll-envelopes.java",
+          "sha": "2d9ddcb0fef61dd44fc4e96c4d3112c135380979",
+          "lastSyncedAt": "2026-10-13T15:34:38.531Z"
         }
       ]
     },
