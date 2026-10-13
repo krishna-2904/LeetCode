@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:14:09.102Z",
+  "updatedAt": "2026-10-13T16:14:13.661Z",
   "problems": [
     {
       "frontendId": "16",
@@ -803,7 +803,7 @@
           "filename": "4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i.java",
           "path": "Medium/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i.java",
           "sha": "db95ff41ceea2adb67b2b2f3b45c8d688d8ee139",
-          "lastSyncedAt": "2026-10-13T15:50:03.377Z"
+          "lastSyncedAt": "2026-10-13T16:14:13.661Z"
         }
       ]
     },
