@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T15:12:50.112Z",
+  "updatedAt": "2026-10-13T15:13:32.693Z",
   "problems": [
     {
       "frontendId": "34",
@@ -24,6 +24,26 @@
           "path": "0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.java",
           "sha": "dded1178cd65a17e863ce84eacb5aa5758d7f9c4",
           "lastSyncedAt": "2026-10-13T15:09:48.102Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0039-combination-sum.java",
+          "path": "0039-combination-sum/0039-combination-sum.java",
+          "sha": "dabd560d916410b7e382faca7e2647efce0789b8",
+          "lastSyncedAt": "2026-10-13T15:13:32.693Z"
         }
       ]
     },
