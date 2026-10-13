@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T15:34:56.001Z",
+  "updatedAt": "2026-10-13T15:35:17.656Z",
   "problems": [
     {
       "frontendId": "22",
@@ -284,6 +284,26 @@
           "path": "Medium/1048-longest-string-chain/1048-longest-string-chain.java",
           "sha": "bfdc96ac1efd7745bcf2e55b378845f9d4bbe1eb",
           "lastSyncedAt": "2026-10-13T15:34:56.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1218",
+      "title": "Longest Arithmetic Subsequence of Given Difference",
+      "slug": "longest-arithmetic-subsequence-of-given-difference",
+      "problemName": "1218-longest-arithmetic-subsequence-of-given-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/",
+      "folderPath": "Medium/1218-longest-arithmetic-subsequence-of-given-difference/",
+      "readmePath": "Medium/1218-longest-arithmetic-subsequence-of-given-difference/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1218-longest-arithmetic-subsequence-of-given-difference.java",
+          "path": "Medium/1218-longest-arithmetic-subsequence-of-given-difference/1218-longest-arithmetic-subsequence-of-given-difference.java",
+          "sha": "0aa178cb776f8262ee262b1b8dc0778e722a99f0",
+          "lastSyncedAt": "2026-10-13T15:35:17.656Z"
         }
       ]
     },
