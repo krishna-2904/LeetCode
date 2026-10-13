@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T15:12:26.569Z",
+  "updatedAt": "2026-10-13T15:18:47.033Z",
   "problems": [
     {
       "frontendId": "65",
@@ -14,8 +14,8 @@
       "problemName": "0065-valid-number",
       "difficulty": "Hard",
       "leetcodeUrl": "https://leetcode.com/problems/valid-number/",
-      "folderPath": "0065-valid-number/",
-      "readmePath": "0065-valid-number/README.md",
+      "folderPath": "Hard/0065-valid-number/",
+      "readmePath": "Hard/0065-valid-number/README.md",
       "solutions": [
         {
           "language": "Java",
@@ -23,7 +23,7 @@
           "filename": "0065-valid-number.java",
           "path": "0065-valid-number/0065-valid-number.java",
           "sha": "86509022dd870d7d261fd0263bd78acede364bf2",
-          "lastSyncedAt": "2026-10-13T15:09:42.016Z"
+          "lastSyncedAt": "2026-10-13T15:18:47.033Z"
         }
       ]
     },
