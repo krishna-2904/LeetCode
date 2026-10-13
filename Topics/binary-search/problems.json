@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T15:31:09.477Z",
+  "updatedAt": "2026-10-13T15:34:38.531Z",
   "problems": [
     {
       "frontendId": "34",
@@ -44,6 +44,26 @@
           "path": "Medium/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
           "sha": "e77bb9ff813cf436a190e42acf8a2b05796f2fd4",
           "lastSyncedAt": "2026-10-13T15:27:16.095Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "354",
+      "title": "Russian Doll Envelopes",
+      "slug": "russian-doll-envelopes",
+      "problemName": "0354-russian-doll-envelopes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/russian-doll-envelopes/",
+      "folderPath": "Hard/0354-russian-doll-envelopes/",
+      "readmePath": "Hard/0354-russian-doll-envelopes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0354-russian-doll-envelopes.java",
+          "path": "Hard/0354-russian-doll-envelopes/0354-russian-doll-envelopes.java",
+          "sha": "2d9ddcb0fef61dd44fc4e96c4d3112c135380979",
+          "lastSyncedAt": "2026-10-13T15:34:38.531Z"
         }
       ]
     },
