@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T15:21:55.474Z",
+  "updatedAt": "2026-10-13T15:22:47.062Z",
   "problems": [
     {
       "frontendId": "31",
@@ -14,8 +14,8 @@
       "problemName": "0031-next-permutation",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
-      "folderPath": "0031-next-permutation/",
-      "readmePath": "0031-next-permutation/README.md",
+      "folderPath": "Medium/0031-next-permutation/",
+      "readmePath": "Medium/0031-next-permutation/README.md",
       "solutions": [
         {
           "language": "Java",
@@ -23,7 +23,7 @@
           "filename": "0031-next-permutation.java",
           "path": "0031-next-permutation/0031-next-permutation.java",
           "sha": "b89d463330fd7839398bee7b1057a4b893f35337",
-          "lastSyncedAt": "2026-10-13T15:13:54.901Z"
+          "lastSyncedAt": "2026-10-13T15:22:47.062Z"
         }
       ]
     },
