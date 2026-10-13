@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "breadth-first-search",
+    "name": "Breadth-First Search",
+    "tagId": "22"
+  },
+  "updatedAt": "2026-10-13T15:32:54.072Z",
+  "problems": [
+    {
+      "frontendId": "637",
+      "title": "Average of Levels in Binary Tree",
+      "slug": "average-of-levels-in-binary-tree",
+      "problemName": "0637-average-of-levels-in-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+      "folderPath": "Easy/0637-average-of-levels-in-binary-tree/",
+      "readmePath": "Easy/0637-average-of-levels-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0637-average-of-levels-in-binary-tree.java",
+          "path": "Easy/0637-average-of-levels-in-binary-tree/0637-average-of-levels-in-binary-tree.java",
+          "sha": "252573311cef9e7f4340976a4e652d04a9d605bb",
+          "lastSyncedAt": "2026-10-13T15:32:54.072Z"
+        }
+      ]
+    }
+  ]
+}
