@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T15:51:26.082Z",
+  "updatedAt": "2026-10-13T15:51:54.875Z",
   "problems": [
     {
       "frontendId": "12",
@@ -84,6 +84,26 @@
           "path": "Medium/0486-predict-the-winner/0486-predict-the-winner.java",
           "sha": "3411f71138fb6d0cdd572366204ca73b3bee71ea",
           "lastSyncedAt": "2026-10-13T15:42:13.101Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "Medium/0633-sum-of-square-numbers/",
+      "readmePath": "Medium/0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0633-sum-of-square-numbers.java",
+          "path": "Medium/0633-sum-of-square-numbers/0633-sum-of-square-numbers.java",
+          "sha": "684133c2171fbb93298494b0a14da9efca43a1ed",
+          "lastSyncedAt": "2026-10-13T15:51:54.875Z"
         }
       ]
     },
