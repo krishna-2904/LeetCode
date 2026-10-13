@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T15:25:43.559Z",
+  "updatedAt": "2026-10-13T15:26:53.876Z",
   "problems": [
     {
       "frontendId": "47",
@@ -23,7 +23,7 @@
           "filename": "0047-permutations-ii.java",
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "029ff936a2776d0b8bc391e0e32931d12ca4f385",
-          "lastSyncedAt": "2026-10-13T15:22:55.235Z"
+          "lastSyncedAt": "2026-10-13T15:26:53.876Z"
         }
       ]
     },
