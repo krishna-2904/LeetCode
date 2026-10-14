@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:15:35.601Z",
+  "updatedAt": "2026-10-14T03:36:29.464Z",
   "problems": [
     {
       "frontendId": "16",
@@ -284,6 +284,26 @@
           "path": "Medium/0377-combination-sum-iv/0377-combination-sum-iv.java",
           "sha": "36d994f78f5abc195513cf8c337288a86ba48b0e",
           "lastSyncedAt": "2026-10-13T16:09:45.262Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "Hard/0410-split-array-largest-sum/",
+      "readmePath": "Hard/0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0410-split-array-largest-sum.java",
+          "path": "Hard/0410-split-array-largest-sum/0410-split-array-largest-sum.java",
+          "sha": "270f18006c5040bf8bc278ade32ad2fa1b532f3b",
+          "lastSyncedAt": "2026-10-14T03:36:29.464Z"
         }
       ]
     },
