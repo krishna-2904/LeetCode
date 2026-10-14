@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 16 | 45 | 4 |
+| 66 | 16 | 45 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 17 days | 19 |
+| 2 days | 17 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-27 | 5 |
 | 2026-09-28 | 3 |
 | 2026-09-29 | 4 |
 | 2026-09-30 | 7 |
@@ -29,31 +28,32 @@ Contains topicwise list of solved problems.
 | 2026-10-08 | 4 |
 | 2026-10-09 | 2 |
 | 2026-10-13 | 2 |
+| 2026-10-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 51% |
-| Dynamic Programming | 22 | 34% |
-| String | 14 | 22% |
+| Array | 34 | 52% |
+| Dynamic Programming | 23 | 35% |
+| String | 14 | 21% |
 | Hash Table | 13 | 20% |
 | Two Pointers | 11 | 17% |
 | Binary Tree | 9 | 14% |
 | Math | 9 | 14% |
 | Tree | 9 | 14% |
 | Sorting | 8 | 12% |
-| Linked List | 7 | 11% |
+| Binary Search | 7 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 43 |
+| [Array](Topics/array/) | 44 |
 | [Backtracking](Topics/backtracking/) | 9 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 10 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
@@ -63,11 +63,11 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 23 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 24 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
-| [Greedy](Topics/greedy/) | 5 |
+| [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 7 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
