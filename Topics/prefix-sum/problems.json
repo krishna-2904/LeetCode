@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T16:14:13.661Z",
+  "updatedAt": "2026-10-14T03:36:29.464Z",
   "problems": [
+    {
+      "frontendId": "410",
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "problemName": "0410-split-array-largest-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
+      "folderPath": "Hard/0410-split-array-largest-sum/",
+      "readmePath": "Hard/0410-split-array-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0410-split-array-largest-sum.java",
+          "path": "Hard/0410-split-array-largest-sum/0410-split-array-largest-sum.java",
+          "sha": "270f18006c5040bf8bc278ade32ad2fa1b532f3b",
+          "lastSyncedAt": "2026-10-14T03:36:29.464Z"
+        }
+      ]
+    },
     {
       "frontendId": "4063",
       "title": "Longest Subarray Divisible by K with At Most One Negation I",
